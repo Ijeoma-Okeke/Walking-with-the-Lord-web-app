@@ -1,0 +1,35 @@
+Build me the landing page of a website that puts all Christian devotionals without copyrights from all over the world together in one place for daily inspiration. It should be able to change and produce real-time articles from each of these devotionals everyday.
+
+Make it so that anyone can read and understand the devotionals and be inspired by the Word of God. Integrate the devotionals so that each provides helpful insights, seamlessly working together. Call the software Walking with the Lord. Create a hero section for it.
+
+Create a logo for the software and make the landing page interactive and user-friendly and mobile first. Code everything using HTML, CSS and Vanilla Javascript. Use Canva, Figma, and/or Adobe where needed for the design.
+
+I want you to tweak this code to add the drop-down feature in the attached photo. The feature is the one that shows Devotionals and has Faith, Wisdom and other items under it in the photo.
+
+Ok, redo this because the site already has a menu named Devotional. Name the new one something else to differentiate it. Retain what the old one showed under Devotionals and create a new name for the new drop-down menu. I don't want to lose the old style.
+
+Ok, good, but you still need to do some more work. I need the Explore to be explorable. Right now, it doesn't hold long enough for a person to scroll down the menu options and select a theme.
+
+Please rerun this code but this time, I want the Explore button to be on exactly the same line as the other items on the menu bar. Right now, it is slightly above the line from others.
+
+Next, add text for every item in the drop-down menu so that when each one is clicked, it leads the reader to a section where text or inspirational text is displayed. For example, when Trial is clicked, it should direct the reader to a section where inspirational text and Bible verses are displayed that suit the Trial theme. Everything must be copyright-free.
+
+Please I want external styling instead of inline styling. Ensure you provide separate codes for HTML, CSS, and Javascript. And provide comments for each line of code to help me understand what each line means and what you did.
+
+Why is it appearing like this? Don't change the interface. Just align the Explore button with the others on the same line and add text for every item in the drop-down menu so that when each one is clicked, it leads the reader to a section where text or inspirational text is displayed. For example, when Trial is clicked, it should direct the reader to a section where inspirational text and Bible verses are displayed that suit the Trial theme. Everything must be copyright-free.
+
+You have changed the user interface to something other than what it was.
+
+Can you do this again? It is showing me some errors.
+
+Ok, what about making the Refresh Devotional button interactive so that it can refresh and change the devotional as needed? The daily devotional should change each day.
+
+Also, make it so that each Tradition will lead to specific devotionals that cater to that tradition. When a person clicks on Presbyterian, for example, it should lead them to Presbyterian devotionals. Everything should be copyright-free please.
+
+There should be fresh devotionals for each day. Tweak it to do that please.
+
+This is good, but could you make each feature and devotional have individual pages instead of everything staying on the same page? Please retain the colors and layout and UI but break the features, traditions, devotionals and everything else into individual pages instead of one page.
+
+What you gave me is no longer the old and better interface. Don't change the interface. Only make each feature and devotional have individual pages instead of everything staying on the same page? Please retain the colors and layout and UI but break the features, traditions, devotionals and everything else into individual pages instead of one page. I have attached a screenshot of what the old UI looks like...
+
+I'm getting an error message for all the files except index.html.
